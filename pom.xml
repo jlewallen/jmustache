@@ -177,12 +177,12 @@
 
 	<distributionManagement>
 		<repository>
-			<id>ss-release</id>
-			<url>http://git.solutionstream.com/nexus/content/repositories/ss-releases</url>
+			<id>page5of4-releases</id>
+			<url>http://dev.page5of4.com/nexus/content/repositories/releases</url>
 		</repository>
 		<snapshotRepository>
-			<id>ss-snapshots</id>
-			<url>http://git.solutionstream.com/nexus/content/repositories/ss-snapshots</url>
+			<id>page5of4-snapshots</id>
+			<url>http://dev.page5of4.com/nexus/content/repositories/snapshots</url>
 			<uniqueVersion>false</uniqueVersion>
 		</snapshotRepository>
 	</distributionManagement>
